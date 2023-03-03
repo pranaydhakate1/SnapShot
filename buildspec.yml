@@ -5,12 +5,13 @@ phases:
       nodejs: 12
     commands:
       - echo "Installing dependencies..."
-      - npm install
-      - npm install -g npm@latest
+      - npm ci
+      - npm audit fix --force
+      - npm run build 
   build:
     commands:
       - echo "Building Angular project..."
-      - ng build --prod --project package.json
+      - ng build --prod 
   post_build:
     commands:
       - echo "Updating files in the S3 bucket..."
