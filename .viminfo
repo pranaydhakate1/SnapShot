@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :x
-|2,0,1677870183,,"x"
+|2,0,1677870809,,"x"
 :w
 |2,0,1677863456,,"w"
 
@@ -27,26 +27,32 @@
 # Registers:
 
 # File marks:
-'0  18  0  ~/buildspec.yml
-|4,48,18,0,1677870183,"~/buildspec.yml"
-'1  1  412  ~/buildspec.yml
-|4,49,1,412,1677869265,"~/buildspec.yml"
-'2  17  70  ~/buildspec.yml
-|4,50,17,70,1677869265,"~/buildspec.yml"
-'3  9534  0  ~/yarn.lock
-|4,51,9534,0,1677864485,"~/yarn.lock"
-'4  1  0  ~/yarn.lock
-|4,52,1,0,1677864414,"~/yarn.lock"
-'5  1  0  ~/yarn.lock
-|4,53,1,0,1677864414,"~/yarn.lock"
-'6  3  11  /home/ec2-user/SnapShot/package.json
-|4,54,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
-'7  2  14  /home/ec2-user/SnapShot/package.json
-|4,55,2,14,1677863307,"/home/ec2-user/SnapShot/package.json"
-'8  2  14  /home/ec2-user/SnapShot/package.json
-|4,56,2,14,1677863307,"/home/ec2-user/SnapShot/package.json"
+'0  17  70  ~/buildspec.yml
+|4,48,17,70,1677870809,"~/buildspec.yml"
+'1  1  413  ~/buildspec.yml
+|4,49,1,413,1677870183,"~/buildspec.yml"
+'2  18  0  ~/buildspec.yml
+|4,50,18,0,1677870183,"~/buildspec.yml"
+'3  1  412  ~/buildspec.yml
+|4,51,1,412,1677869265,"~/buildspec.yml"
+'4  1  412  ~/buildspec.yml
+|4,52,1,412,1677869265,"~/buildspec.yml"
+'5  1  412  ~/buildspec.yml
+|4,53,1,412,1677869265,"~/buildspec.yml"
+'6  17  70  ~/buildspec.yml
+|4,54,17,70,1677869265,"~/buildspec.yml"
+'7  9534  0  ~/yarn.lock
+|4,55,9534,0,1677864485,"~/yarn.lock"
+'8  1  0  ~/yarn.lock
+|4,56,1,0,1677864414,"~/yarn.lock"
+'9  1  0  ~/yarn.lock
+|4,57,1,0,1677864414,"~/yarn.lock"
 
 # Jumplist (newest first):
+-'  17  70  ~/buildspec.yml
+|4,39,17,70,1677870809,"~/buildspec.yml"
+-'  1  413  ~/buildspec.yml
+|4,39,1,413,1677870785,"~/buildspec.yml"
 -'  18  0  ~/buildspec.yml
 |4,39,18,0,1677870183,"~/buildspec.yml"
 -'  1  412  ~/buildspec.yml
@@ -63,6 +69,14 @@
 |4,39,9534,0,1677864485,"~/yarn.lock"
 -'  9534  0  ~/yarn.lock
 |4,39,9534,0,1677864485,"~/yarn.lock"
+-'  9534  0  ~/yarn.lock
+|4,39,9534,0,1677864485,"~/yarn.lock"
+-'  9534  0  ~/yarn.lock
+|4,39,9534,0,1677864485,"~/yarn.lock"
+-'  9534  0  ~/yarn.lock
+|4,39,9534,0,1677864485,"~/yarn.lock"
+-'  9534  0  ~/yarn.lock
+|4,39,9534,0,1677864485,"~/yarn.lock"
 -'  1  0  ~/yarn.lock
 |4,39,1,0,1677864443,"~/yarn.lock"
 -'  1  0  ~/yarn.lock
@@ -71,6 +85,22 @@
 |4,39,1,0,1677864443,"~/yarn.lock"
 -'  1  0  ~/yarn.lock
 |4,39,1,0,1677864443,"~/yarn.lock"
+-'  1  0  ~/yarn.lock
+|4,39,1,0,1677864443,"~/yarn.lock"
+-'  1  0  ~/yarn.lock
+|4,39,1,0,1677864443,"~/yarn.lock"
+-'  1  0  ~/yarn.lock
+|4,39,1,0,1677864443,"~/yarn.lock"
+-'  1  0  ~/yarn.lock
+|4,39,1,0,1677864443,"~/yarn.lock"
+-'  1  0  ~/yarn.lock
+|4,39,1,0,1677864414,"~/yarn.lock"
+-'  1  0  ~/yarn.lock
+|4,39,1,0,1677864414,"~/yarn.lock"
+-'  1  0  ~/yarn.lock
+|4,39,1,0,1677864414,"~/yarn.lock"
+-'  1  0  ~/yarn.lock
+|4,39,1,0,1677864414,"~/yarn.lock"
 -'  1  0  ~/yarn.lock
 |4,39,1,0,1677864414,"~/yarn.lock"
 -'  1  0  ~/yarn.lock
@@ -111,6 +141,70 @@
 |4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
 -'  3  11  /home/ec2-user/SnapShot/package.json
 |4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
+-'  3  11  /home/ec2-user/SnapShot/package.json
+|4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
+-'  3  11  /home/ec2-user/SnapShot/package.json
+|4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
+-'  3  11  /home/ec2-user/SnapShot/package.json
+|4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
+-'  3  11  /home/ec2-user/SnapShot/package.json
+|4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
+-'  3  11  /home/ec2-user/SnapShot/package.json
+|4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
+-'  3  11  /home/ec2-user/SnapShot/package.json
+|4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
+-'  3  11  /home/ec2-user/SnapShot/package.json
+|4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
+-'  3  11  /home/ec2-user/SnapShot/package.json
+|4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
+-'  3  11  /home/ec2-user/SnapShot/package.json
+|4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
+-'  3  11  /home/ec2-user/SnapShot/package.json
+|4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
+-'  3  11  /home/ec2-user/SnapShot/package.json
+|4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
+-'  3  11  /home/ec2-user/SnapShot/package.json
+|4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
+-'  3  11  /home/ec2-user/SnapShot/package.json
+|4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
+-'  3  11  /home/ec2-user/SnapShot/package.json
+|4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
+-'  3  11  /home/ec2-user/SnapShot/package.json
+|4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
+-'  3  11  /home/ec2-user/SnapShot/package.json
+|4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863388,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863388,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863388,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863388,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863388,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863388,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863388,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863388,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863388,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863388,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863388,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863388,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863388,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863388,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863388,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863388,"/home/ec2-user/SnapShot/package.json"
 -'  2  14  /home/ec2-user/SnapShot/package.json
 |4,39,2,14,1677863388,"/home/ec2-user/SnapShot/package.json"
 -'  2  14  /home/ec2-user/SnapShot/package.json
@@ -155,101 +249,18 @@
 |4,39,2,14,1677863307,"/home/ec2-user/SnapShot/package.json"
 -'  2  14  /home/ec2-user/SnapShot/package.json
 |4,39,2,14,1677863307,"/home/ec2-user/SnapShot/package.json"
--'  2  14  /home/ec2-user/SnapShot/package.json
-|4,39,2,14,1677863307,"/home/ec2-user/SnapShot/package.json"
--'  2  14  /home/ec2-user/SnapShot/package.json
-|4,39,2,14,1677863307,"/home/ec2-user/SnapShot/package.json"
--'  2  14  /home/ec2-user/SnapShot/package.json
-|4,39,2,14,1677863307,"/home/ec2-user/SnapShot/package.json"
--'  2  14  /home/ec2-user/SnapShot/package.json
-|4,39,2,14,1677863307,"/home/ec2-user/SnapShot/package.json"
--'  2  14  /home/ec2-user/SnapShot/package.json
-|4,39,2,14,1677863307,"/home/ec2-user/SnapShot/package.json"
--'  2  14  /home/ec2-user/SnapShot/package.json
-|4,39,2,14,1677863307,"/home/ec2-user/SnapShot/package.json"
--'  2  14  /home/ec2-user/SnapShot/package.json
-|4,39,2,14,1677863307,"/home/ec2-user/SnapShot/package.json"
--'  2  14  /home/ec2-user/SnapShot/package.json
-|4,39,2,14,1677863307,"/home/ec2-user/SnapShot/package.json"
--'  2  14  /home/ec2-user/SnapShot/package.json
-|4,39,2,14,1677863307,"/home/ec2-user/SnapShot/package.json"
--'  2  14  /home/ec2-user/SnapShot/package.json
-|4,39,2,14,1677863307,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
--'  1  0  /home/ec2-user/SnapShot/package.json
-|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
 
 # History of marks within files (newest to oldest):
 
 > ~/buildspec.yml
-	*	1677870181	0
-	"	18	0
-	^	18	0
-	.	17	71
+	*	1677870807	0
+	"	17	70
+	^	17	71
+	.	17	70
 	+	1	424
 	+	1	825
-	+	17	71
+	+	1	413
+	+	17	70
 
 > ~/yarn.lock
 	*	1677864482	0
