@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :x
-|2,0,1677864485,,"x"
+|2,0,1677869265,,"x"
 :w
 |2,0,1677863456,,"w"
 
@@ -27,24 +27,36 @@
 # Registers:
 
 # File marks:
-'0  9534  0  ~/yarn.lock
-|4,48,9534,0,1677864485,"~/yarn.lock"
-'1  1  0  ~/yarn.lock
-|4,49,1,0,1677864414,"~/yarn.lock"
+'0  17  70  ~/buildspec.yml
+|4,48,17,70,1677869265,"~/buildspec.yml"
+'1  9534  0  ~/yarn.lock
+|4,49,9534,0,1677864485,"~/yarn.lock"
 '2  1  0  ~/yarn.lock
 |4,50,1,0,1677864414,"~/yarn.lock"
-'3  3  11  /home/ec2-user/SnapShot/package.json
-|4,51,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
-'4  2  14  /home/ec2-user/SnapShot/package.json
-|4,52,2,14,1677863307,"/home/ec2-user/SnapShot/package.json"
+'3  1  0  ~/yarn.lock
+|4,51,1,0,1677864414,"~/yarn.lock"
+'4  3  11  /home/ec2-user/SnapShot/package.json
+|4,52,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
 '5  2  14  /home/ec2-user/SnapShot/package.json
 |4,53,2,14,1677863307,"/home/ec2-user/SnapShot/package.json"
+'6  2  14  /home/ec2-user/SnapShot/package.json
+|4,54,2,14,1677863307,"/home/ec2-user/SnapShot/package.json"
 
 # Jumplist (newest first):
+-'  17  70  ~/buildspec.yml
+|4,39,17,70,1677869265,"~/buildspec.yml"
+-'  1  0  ~/buildspec.yml
+|4,39,1,0,1677869251,"~/buildspec.yml"
+-'  9534  0  ~/yarn.lock
+|4,39,9534,0,1677864485,"~/yarn.lock"
 -'  9534  0  ~/yarn.lock
 |4,39,9534,0,1677864485,"~/yarn.lock"
 -'  1  0  ~/yarn.lock
 |4,39,1,0,1677864443,"~/yarn.lock"
+-'  1  0  ~/yarn.lock
+|4,39,1,0,1677864443,"~/yarn.lock"
+-'  1  0  ~/yarn.lock
+|4,39,1,0,1677864414,"~/yarn.lock"
 -'  1  0  ~/yarn.lock
 |4,39,1,0,1677864414,"~/yarn.lock"
 -'  3  11  /home/ec2-user/SnapShot/package.json
@@ -55,6 +67,22 @@
 |4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
 -'  3  11  /home/ec2-user/SnapShot/package.json
 |4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
+-'  3  11  /home/ec2-user/SnapShot/package.json
+|4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
+-'  3  11  /home/ec2-user/SnapShot/package.json
+|4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
+-'  3  11  /home/ec2-user/SnapShot/package.json
+|4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
+-'  3  11  /home/ec2-user/SnapShot/package.json
+|4,39,3,11,1677863465,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863388,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863388,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863388,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863388,"/home/ec2-user/SnapShot/package.json"
 -'  2  14  /home/ec2-user/SnapShot/package.json
 |4,39,2,14,1677863388,"/home/ec2-user/SnapShot/package.json"
 -'  2  14  /home/ec2-user/SnapShot/package.json
@@ -71,6 +99,30 @@
 |4,39,2,14,1677863307,"/home/ec2-user/SnapShot/package.json"
 -'  2  14  /home/ec2-user/SnapShot/package.json
 |4,39,2,14,1677863307,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863307,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863307,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863307,"/home/ec2-user/SnapShot/package.json"
+-'  2  14  /home/ec2-user/SnapShot/package.json
+|4,39,2,14,1677863307,"/home/ec2-user/SnapShot/package.json"
+-'  1  0  /home/ec2-user/SnapShot/package.json
+|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
+-'  1  0  /home/ec2-user/SnapShot/package.json
+|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
+-'  1  0  /home/ec2-user/SnapShot/package.json
+|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
+-'  1  0  /home/ec2-user/SnapShot/package.json
+|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
+-'  1  0  /home/ec2-user/SnapShot/package.json
+|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
+-'  1  0  /home/ec2-user/SnapShot/package.json
+|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
+-'  1  0  /home/ec2-user/SnapShot/package.json
+|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
+-'  1  0  /home/ec2-user/SnapShot/package.json
+|4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
 -'  1  0  /home/ec2-user/SnapShot/package.json
 |4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
 -'  1  0  /home/ec2-user/SnapShot/package.json
@@ -89,6 +141,13 @@
 |4,39,1,0,1677863280,"/home/ec2-user/SnapShot/package.json"
 
 # History of marks within files (newest to oldest):
+
+> ~/buildspec.yml
+	*	1677869262	0
+	"	17	70
+	^	17	71
+	.	17	70
+	+	17	70
 
 > ~/yarn.lock
 	*	1677864482	0
