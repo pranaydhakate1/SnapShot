@@ -15,5 +15,5 @@ phases:
     commands:
       - pwd
       - echo "Updating files in the S3 bucket..."
-      - aws s3 sync build/github-s3-task-demo1/ s3://task-1-demo --delete 
+      - aws s3 sync build/github-s3-task-demo1/ s3://task-1-demo --delete  --debug
 
