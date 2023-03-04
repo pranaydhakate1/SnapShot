@@ -11,6 +11,8 @@ phases:
     commands:
       - echo "Building React project..."
       - npm run build 
+      - ls
+      - pwd
   post_build:
     commands:
       - pwd
