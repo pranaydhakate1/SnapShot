@@ -6,11 +6,11 @@ phases:
     commands:
       - echo "Installing dependencies..."
       - npm ci
-      - npm audit fix --force
+      - npm install -g grunt-cli
       - npm run build 
   build:
     commands:
-      - echo "Building React project..."
+      - echo "Building Angular project..."
       - ng build --prod 
   post_build:
     commands:
