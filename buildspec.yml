@@ -5,10 +5,10 @@ phases:
       nodejs: 12
     commands:
       - echo "Installing dependencies..."
-      - npm install -g grunt-cli
-      - npm install
-      - grunt build 
+      - npm install -g create-react-app
       - npm run build 
+      - serve -s build
+
   build:
     commands:
       - echo "Building Angular project..."
