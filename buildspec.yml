@@ -7,7 +7,7 @@ phases:
       - echo "Installing dependencies..."
       - npm install
       - npm install npx 
-
+      - pip install --upgrade awscli
   build:
     commands:
       - echo "Building React project..."
@@ -20,5 +20,5 @@ phases:
     commands:
       - pwd
       - echo "Updating files in the S3 bucket..."
-      - aws s3 sync /build/pk/ s3://task-1-demo --delete  --debug
+      - aws s3 sync build/ s3://task-1-demo --delete  --debug
 
