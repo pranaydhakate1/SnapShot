@@ -10,7 +10,7 @@ phases:
       - npm run build 
   build:
     commands:
-      - echo "Building Angular project..."
+      - echo "Building React project..."
       - ng build --prod 
   post_build:
     commands:
