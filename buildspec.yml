@@ -13,6 +13,7 @@ phases:
       - npm run build 
   post_build:
     commands:
+      - pwd
       - echo "Updating files in the S3 bucket..."
       - aws s3 sync github-s3-task-demo1/ s3://task-1-demo --delete 
 
