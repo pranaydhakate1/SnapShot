@@ -14,5 +14,5 @@ phases:
   post_build:
     commands:
       - echo "Updating files in the S3 bucket..."
-      - aws s3 sync dist/github-s3-task-demo/ s3://task-1-demo 
+      - aws s3 sync dist/github-s3-task-demo/ s3://task-1-demo --delete 
 
