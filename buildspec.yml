@@ -5,16 +5,14 @@ phases:
       nodejs: 12
     commands:
       - echo "Installing dependencies..."
-      - npm install -g create-react-app
-      - npm run start
-      - npm run build 
-      - serve -s build
+      - npm install 
 
   build:
     commands:
-      - echo "Building Angular project..."
-      - ng build --prod 
+      - echo "Building React project..."
+      - npm run build 
   post_build:
     commands:
       - echo "Updating files in the S3 bucket..."
       - aws s3 sync dist/github-s3-task-demo/ s3://task-1-demo --delete
+
