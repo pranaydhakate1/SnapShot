@@ -5,7 +5,8 @@ phases:
       nodejs: 12
     commands:
       - echo "Installing dependencies..."
-      - npm install 
+      - npm install
+      - npm install npx 
 
   build:
     commands:
@@ -14,6 +15,7 @@ phases:
       - cd build 
       - ls
       - pwd
+      - aws s3 ls
   post_build:
     commands:
       - pwd
